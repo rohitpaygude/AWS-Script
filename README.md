@@ -1,3 +1,3 @@
 Hi,
 
-This repo contains the python boto scripts
+This repo contains the python boto2/3 scripts
